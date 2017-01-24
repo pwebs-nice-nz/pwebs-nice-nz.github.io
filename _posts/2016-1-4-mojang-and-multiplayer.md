@@ -1,5 +1,5 @@
 ---
-layout: postmjmulti
+layout: default
 title:  "Mojang & Multiplayer"
 date:   2016-1-4 9:00:00 +1300
 categories: rants
